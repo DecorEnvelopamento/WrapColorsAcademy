@@ -22,3 +22,6 @@ Search for:
 
 ## Notes
 - Testimonials are placeholders. Replace with real testimonials as you collect them.
+
+
+Talvez adicionar um framework MVC para esse projeto, ele não vai funcionar no github Pages
